@@ -1,4 +1,4 @@
-## CBL API
+## CBL API ~~dead~~
 
 A very simple package to post stats / retrieve stats of bots from the Cloud Bots List API.
 
